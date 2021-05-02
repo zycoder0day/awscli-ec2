@@ -14,3 +14,6 @@ ami-0aac9d7fa83beb6d2 eu west 2
 ami-0b250a0a9fb2dcfa7 eu west 3
 ami-024273c298b16e2c6 eu north 1
 ami-02332b2f1df42b407 sa east 1
+
+====== baru =======
+ami-0bbfeb6eccdd084e1 us-east-1f
