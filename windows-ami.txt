@@ -17,3 +17,4 @@ ami-02332b2f1df42b407 sa east 1
 
 ====== baru =======
 ami-0bbfeb6eccdd084e1 us-east-1f
+ami-07fc7611503eb6b29 eu-central-1
